@@ -1,0 +1,10 @@
+def countdown(time_wait):
+    timer = time_wait
+    import time
+    for number in range(time_wait):
+        timer -= 1
+        print(timer)
+        time.sleep(1)
+    print("countdown ended")
+
+countdown(PUT THE TIMER LENGTH HERE)
