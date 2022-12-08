@@ -1,4 +1,4 @@
-# timer
+# timer FOR PYTHON
 In this you must choose the timer length in the bottom argument:
 
 countdown(PUT THE TIMER LENGTH HERE)
